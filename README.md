@@ -46,7 +46,8 @@ Hey there! I’m **Vhina** ✨
 ---
 
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=avicsl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=avicsl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ---
 
