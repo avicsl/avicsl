@@ -11,12 +11,15 @@
 ---
 
 ## 🔗 Connect with Me:
-<p align="left">
-  <a href="https://www.facebook.com/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50px">
+<p align="center">
+  <a href="https://www.facebook.com/share/15fVAgYGF7/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Gmail_Icon.png" width="50px">
+  <a href="https://instagram.com/alvhn.sl">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:soloalvhin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
 </p>
 
@@ -31,7 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px">
-  <img src="https://yourgithubrepo.com/path-to-your-canva-icon.png" width="50px">
+  <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50px">
 </p>
 
