@@ -45,11 +45,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&bg_color=FFD1DC,E75480,F8BBD0&title_color=E60073&text_color=000000&icon_color=FF69B4">
+  <img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&bg_color=000000&title_color=E60073&text_color=FFB6C1&icon_color=FF69B4">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=tokyonight&hide_border=false&ring=FF1493&fire=FF69B4&sideNums=000000">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=black-ice&hide_border=false&ring=FF1493&fire=FF69B4&sideNums=FFB6C1">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&theme=tokyonight&hide_border=false&bg_color=FFD1DC,E75480,F8BBD0&title_color=E60073&text_color=000000&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&theme=black-ice&hide_border=false&bg_color=000000&title_color=E60073&text_color=FFB6C1&layout=compact">
 </p>
 
 ---
