@@ -8,21 +8,23 @@
 
 ---
 
-## 🌐 Connect with Me:  
-[![Facebook](https://img.shields.io/badge/Facebook-ff8fab?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/share/15fVAgYGF7/)  
-[![Instagram](https://img.shields.io/badge/Instagram-ff6b81?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/alvhn.sl)  
-[![Email](https://img.shields.io/badge/Email-ff4d6d?logo=gmail&logoColor=white&style=for-the-badge)](mailto:soloalvhin@gmail.com)  
+## 🔗 Connect with Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/share/15fVAgYGF7/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/alvhn.sl)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:soloalvhin@gmail.com)
 
 ---
 
-## 💻 Tech Stack:  
-![Java](https://img.shields.io/badge/-Java-ff6b81?logo=openjdk&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-ff4d6d?logo=javascript&logoColor=white&style=for-the-badge)  
-![HTML5](https://img.shields.io/badge/-HTML5-ff758f?logo=html5&logoColor=white&style=for-the-badge)  
-![CSS3](https://img.shields.io/badge/-CSS3-ffafcc?logo=css3&logoColor=white&style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/-MySQL-fc85ae?logo=mysql&logoColor=white&style=for-the-badge)  
-![Canva](https://img.shields.io/badge/-Canva-fb6f92?logo=canva&logoColor=white&style=for-the-badge)  
-![Figma](https://img.shields.io/badge/-Figma-fd79a8?logo=figma&logoColor=white&style=for-the-badge)  
+# 💻 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
 
 ---
 
