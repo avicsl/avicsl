@@ -43,33 +43,32 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avicsl&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=tokyonight&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&bg_color=FFC0CB,FF69B4,F8BBD0&title_color=FF1493&text_color=FF69B4&icon_color=FFC0CB">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=tokyonight&hide_border=false&ring=FF1493&fire=FF69B4&sideNums=FFC0CB">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&theme=tokyonight&hide_border=false&bg_color=FFC0CB,FF69B4,F8BBD0&title_color=FF1493&text_color=FF69B4&layout=compact">
 </p>
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=pink&no-frame=false&no-bg=true&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
 ---
 
-## ✍️ Dev Quote:
+## ✍️ Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
 ---
 
+## 🎀 Profile Visits
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=avicsl&icon=9&color=ff69b4">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=avicsl&color=FF69B4&style=flat-square&label=Profile+Views">
 </p>
-
-
