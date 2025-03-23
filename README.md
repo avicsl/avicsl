@@ -12,14 +12,11 @@
 
 ## 🔗 Connect with Me:
 <p align="left">
-  <a href="https://www.facebook.com/share/15fVAgYGF7/" target="_blank">
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50px">
   </a>
-  <a href="https://instagram.com/alvhn.sl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50px">
-  </a>
-  <a href="mailto:soloalvhin@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50px">
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Gmail_Icon.png" width="50px">
   </a>
 </p>
 
@@ -34,12 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinitydesigner/affinitydesigner-original.svg" width="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/affinityphoto/affinityphoto-original.svg" width="50px">
+  <img src="https://yourgithubrepo.com/path-to-your-canva-icon.png" width="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/procreate/procreate-original.svg" width="50px">
 </p>
+
 
 
 ---
