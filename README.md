@@ -1,11 +1,9 @@
-# 💖 About Me:  
-Hey there! I’m **Vhina** ✨  
+# Hey there! I’m Vhina 🌸
 
-🌸 A passionate **developer & creative** who loves turning ideas into reality!  
-💻 I enjoy coding in **Java, JavaScript, HTML, CSS, and MySQL**.  
-🎨 I have a soft spot for **UI/UX design, Canva, and Figma**—making things beautiful is my thing!  
-🍵 Matcha lover, **K-pop & K-drama enthusiast**, and a dedicated **Sanrio fan**.  
-📚 Currently learning **advanced front-end development & database management**.  
+🧚🏻‍♀️ A passionate **developer & creative** who loves turning ideas into reality!  
+💻 I enjoy coding in **Java, JavaScript, HTML, CSS, and MySQL**.
+🎨 I have a soft spot in **making things beautiful and innovative**!  
+📚 Currently studying **Conputer Science** at **National University - Manila**.  
 💡 My goal? **To build projects that inspire & innovate!**  
 
 ---
@@ -42,12 +40,6 @@ Hey there! I’m **Vhina** ✨
 
 ## ✍️ Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink)  
-
----
-
-### 🔝 Top Contributed Repo  
-![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=avicsl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 
 ---
 
