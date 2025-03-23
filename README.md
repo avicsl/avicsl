@@ -5,7 +5,6 @@
   <br>💻 Coding in <strong>Java, JavaScript, HTML, and MySQL</strong>.  
   <br>🎨 Aesthetics + innovation = my thing!  
   <br>📚 Studying <strong>Computer Science</strong> at <strong>National University - Manila</strong>.  
-  <br>💡 My goal? <strong>To build projects that inspire & innovate!</strong>  
 </p>
 
 ---
