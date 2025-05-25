@@ -4,7 +4,7 @@
   🧚🏻‍♀️ A passionate <strong>developer & creative</strong> who loves turning ideas into reality!  
   <br>💻 Coding in <strong>Java, JavaScript, Python, and MySQL</strong>.  
   <br>🎨 Aesthetics + innovation = my thing!  
-  <br>📚 Studying <strong>Computer Science</strong> at <strong>National University - Manila</strong>.  
+  <br>📚 Studying <strong>Computer Science specialized in Digital </strong> at <strong>National University - Manila</strong>.  
 </p>
 
 ---
