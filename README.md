@@ -1,4 +1,4 @@
-  <h1 align="center">Hey there, I’m Vhina! 🌸</h1>  
+  <h1 align="center">Hey there, I’m Vhina! 🌸</h1> 
 
 <p align="center">
   🧚🏻‍♀️ A passionate <strong>developer & creative</strong> who loves turning ideas into reality!  
