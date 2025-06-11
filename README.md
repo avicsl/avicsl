@@ -52,22 +52,9 @@
 
 ## 💖 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,github,vscode,figma" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,mssql,github,vscode,figma,canva,notion" alt="Tech Stack" />
 
 <br>
-
-<img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FFB6C1" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFB6C1" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white&labelColor=FFB6C1" alt="Python">
-<img src="https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFB6C1" alt="MySQL">
-<img src="https://img.shields.io/badge/MS_SQL-FF69B4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=FFB6C1" alt="MS SQL">
-<img src="https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFB6C1" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFB6C1" alt="CSS3">
-<br>
-<img src="https://img.shields.io/badge/VS_Code-FF1493?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FFB6C1" alt="VS Code">
-<img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=FFB6C1" alt="Figma">
-<img src="https://img.shields.io/badge/Canva-FF1493?style=for-the-badge&logo=canva&logoColor=white&labelColor=FFB6C1" alt="Canva">
-<img src="https://img.shields.io/badge/Notion-FF69B4?style=for-the-badge&logo=notion&logoColor=white&labelColor=FFB6C1" alt="Notion">
 
 </div>
 
