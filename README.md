@@ -1,61 +1,139 @@
-  <h1 align="center">Hey there, I’m Vhina! 🌸</h1> 
+<div align="center">
 
-<p align="center">
-  🧚🏻‍♀️ A passionate <strong>developer & creative</strong> who loves turning ideas into reality!  
-  <br>💻 Coding in <strong>Java, JavaScript, Python, and MySQL</strong>.  
-  <br>🎨 Aesthetics + innovation = my thing!  
-  <br>📚 Studying <strong>Computer Science specialized in Digital Forensics</strong> at <strong>National University - Manila</strong>.  
-</p>
+# 🌸 Hey there, I'm Vhina! 🌸
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Passionate+Developer+%26+Creative+%F0%9F%A7%9A%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F;Turning+Ideas+into+Reality+%F0%9F%92%AB;Aesthetics+%2B+Innovation+%3D+My+Thing!+%F0%9F%8E%A8" alt="Typing SVG" />
 
-## 🔗 Connect with Me:
-<p align="center">
-  <a href="https://www.facebook.com/share/15fVAgYGF7/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://instagram.com/alvhn.sl">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="mailto:soloalvhin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
 
 ---
 
-## 💻 Tech Stack:
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50px" title="MS SQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50px"> </p>
+<div align="center">
+
+## 🧚🏻‍♀️ About Me
+
+🎓 **Computer Science Student** specializing in **Digital Forensics**  
+🏫 **National University - Manila**  
+💻 **Tech Stack:** Java, JavaScript, Python, MySQL  
+🌟 **Passion:** Creating beautiful, functional solutions  
+✨ **Mission:** Bridging creativity with technology
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&bg_color=000000&title_color=E60073&text_color=FFB6C1&icon_color=FF69B4">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=black-ice&hide_border=false&ring=FF1493&fire=FF69B4&sideNums=FFB6C1">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&theme=black-ice&hide_border=false&bg_color=000000&title_color=E60073&text_color=FFB6C1&layout=compact">
-</p>
+<div align="center">
+
+## 🌸 Connect with Me
+
+<a href="https://www.facebook.com/share/15fVAgYGF7/">
+  <img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=white&labelColor=FFB6C1" alt="Facebook">
+</a>
+<a href="https://instagram.com/alvhn.sl">
+  <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFB6C1" alt="Instagram">
+</a>
+<a href="mailto:soloalvhin@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" alt="Email">
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
 
 ---
 
+<div align="center">
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-</p>
+## 💖 Tech Stack & Tools
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,github,vscode,figma" alt="Tech Stack" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FFB6C1" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFB6C1" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white&labelColor=FFB6C1" alt="Python">
+<img src="https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFB6C1" alt="MySQL">
+<img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFB6C1" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFB6C1" alt="CSS3">
+
+<br>
+
+<img src="https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FFB6C1" alt="VS Code">
+<img src="https://img.shields.io/badge/Figma-FF1493?style=for-the-badge&logo=figma&logoColor=white&labelColor=FFB6C1" alt="Figma">
+<img src="https://img.shields.io/badge/Canva-FF69B4?style=for-the-badge&logo=canva&logoColor=white&labelColor=FFB6C1" alt="Canva">
+<img src="https://img.shields.io/badge/Notion-FF1493?style=for-the-badge&logo=notion&logoColor=white&labelColor=FFB6C1" alt="Notion">
+
+</div>
 
 ---
 
-## ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493&border_color=FF69B4&hide_border=false" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=radical&background=0d1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&sideNums=FFB6C1&currStreakNum=FF69B4&dates=FFB6C1&sideLabels=FF69B4&border=FF69B4" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&border_color=FF69B4&hide_border=false" alt="Top Languages" />
+
+</div>
 
 ---
 
-## 🎀 Profile Visits
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avicsl&color=FF69B4&style=flat-square&label=Profile+Views">
-</p>
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_color=FF69B4&author_color=FFB6C1&bg_color=0d1117" alt="Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 Fun Extras
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avicsl&bg_color=0d1117&color=FFB6C1&line=FF69B4&point=FF1493&area=true&hide_border=false&border_color=FF69B4&theme=react-dark" alt="Activity Graph" />
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎀 Thanks for Visiting!
+
+<img src="https://komarev.com/ghpvc/?username=avicsl&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+
+### ✨ *"Code with passion, create with purpose!"* ✨
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=FFB6C1&animation=twinkling" />
+</div>
