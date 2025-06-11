@@ -20,7 +20,7 @@
 🌟 **Passion:** Creating beautiful and functional solutions  
 ✨ **Mission:** Bridging creativity with technology
 
-<img src="https://user-images.githubusercontent.com/122802679/236684819-6e4d88b6-ff92-4696-bbc8-3469b9d12a4a.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 
 ---
