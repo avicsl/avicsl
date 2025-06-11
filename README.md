@@ -16,7 +16,7 @@
 
 🎓 **Computer Science Student** specializing in **Digital Forensics**  
 🏫 **National University - Manila**  
-💻 **Tech Stack:** Java, JavaScript, Python, MySQL  
+💻 Coding in <strong>Java, JavaScript, Python, and MySQL</strong>  
 🌟 **Passion:** Creating beautiful, functional solutions  
 ✨ **Mission:** Bridging creativity with technology
 
@@ -50,23 +50,20 @@
 
 ## 💖 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,github,vscode,figma" alt="Tech Stack" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FFB6C1" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFB6C1" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white&labelColor=FFB6C1" alt="Python">
-<img src="https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFB6C1" alt="MySQL">
-<img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFB6C1" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFB6C1" alt="CSS3">
-
-<br>
-
-<img src="https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FFB6C1" alt="VS Code">
-<img src="https://img.shields.io/badge/Figma-FF1493?style=for-the-badge&logo=figma&logoColor=white&labelColor=FFB6C1" alt="Figma">
-<img src="https://img.shields.io/badge/Canva-FF69B4?style=for-the-badge&logo=canva&logoColor=white&labelColor=FFB6C1" alt="Canva">
-<img src="https://img.shields.io/badge/Notion-FF1493?style=for-the-badge&logo=notion&logoColor=white&labelColor=FFB6C1" alt="Notion">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50px" title="MS SQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50px">
+</p>
 
 </div>
 
@@ -76,11 +73,17 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493&border_color=FF69B4&hide_border=false" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493&border_color=FF69B4&hide_border=false" alt="GitHub Stats" width="400" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=radical&background=0d1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&sideNums=FFB6C1&currStreakNum=FF69B4&dates=FFB6C1&sideLabels=FF69B4&border=FF69B4" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=radical&background=0d1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&sideNums=FFB6C1&currStreakNum=FF69B4&dates=FFB6C1&sideLabels=FF69B4&border=FF69B4" alt="GitHub Streak" width="400" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&border_color=FF69B4&hide_border=false" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&border_color=FF69B4&hide_border=false" alt="Top Languages" width="400" />
+</div>
 
 </div>
 
