@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" alt="Email">
 </a>
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -56,20 +56,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FFB6C1" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFB6C1" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white&labelColor=FFB6C1" alt="Python">
-<img src="https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFB6C1" alt="MySQL">
-<img src="https://img.shields.io/badge/MS_SQL-FF69B4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=FFB6C1" alt="MS SQL">
-<img src="https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFB6C1" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFB6C1" alt="CSS3">
-
-<br>
-
-<img src="https://img.shields.io/badge/VS_Code-FF1493?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FFB6C1" alt="VS Code">
-<img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=FFB6C1" alt="Figma">
-<img src="https://img.shields.io/badge/Canva-FF1493?style=for-the-badge&logo=canva&logoColor=white&labelColor=FFB6C1" alt="Canva">
-<img src="https://img.shields.io/badge/Notion-FF69B4?style=for-the-badge&logo=notion&logoColor=white&labelColor=FFB6C1" alt="Notion">
+<img src="https://img.shields.io/badge/-FF69B4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=FFB6C1" alt="MS SQL">
+<img src="https://img.shields.io/badge/-FF1493?style=for-the-badge&logo=canva&logoColor=white&labelColor=FFB6C1" alt="Canva">
+<img src="https://img.shields.io/badge/-FF69B4?style=for-the-badge&logo=notion&logoColor=white&labelColor=FFB6C1" alt="Notion">
 
 </div>
 
@@ -99,7 +88,9 @@
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=8&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" alt="GitHub Trophies" />
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
+</div>
 
 </div>
 
@@ -135,7 +126,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=avicsl&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
