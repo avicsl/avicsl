@@ -82,7 +82,7 @@
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=8&title=Stars,Followers,Commits,Repositories,Productive,PullRequest,Issues,Experience" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=8&title=Stars,Followers,Commits,Repositories,Reviews,PullRequest,Issues,Experience" alt="GitHub Trophies" />
 
 </div>
 
