@@ -39,7 +39,6 @@
 <a href="mailto:soloalvhin@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" alt="Email">
 </a>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
@@ -128,7 +127,6 @@
 ## 🎀 Thanks for Visiting!
 
 <img src="https://komarev.com/ghpvc/?username=avicsl&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
 ### ✨ *"Code with passion, create with purpose!"* ✨
