@@ -54,7 +54,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,github,vscode,figma" alt="Tech Stack" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FFB6C1" alt="Java">
 <img src="https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFB6C1" alt="JavaScript">
@@ -119,7 +119,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avicsl&bg_color=0d1117&color=FFB6C1&line=FF69B4&point=FF1493&area=true&hide_border=false&border_color=FF69B4&theme=react-dark" alt="Activity Graph" />
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
 
@@ -133,11 +133,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=avicsl&color=FF69B4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
-### ✨ *"Code with passion, create with purpose!"* ✨
 
 </div>
 
