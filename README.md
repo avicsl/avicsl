@@ -52,9 +52,10 @@
 
 ## 💖 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,mssql,github,vscode,figma,canva,notion" alt="Tech Stack" />
-
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,github,vscode,figma,notion" alt="Tech Stack" />
 <br>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 
 </div>
 
