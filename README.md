@@ -62,7 +62,17 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-profile-trophy.vercel.app/?username=avicsl&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" alt="GitHub Trophies" width="100%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493&border_color=FF69B4&hide_border=false" alt="GitHub Stats" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=radical&background=0d1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&sideNums=FFB6C1&currStreakNum=FF69B4&dates=FFB6C1&sideLabels=FF69B4&border=FF69B4" alt="GitHub Streak" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&border_color=FF69B4&hide_border=false" alt="Top Languages" width="400" />
+</div>
 
 </div>
 
