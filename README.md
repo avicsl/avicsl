@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Hey there, I'm Vhina! 🌸
+# Hey there, I'm Vhina! 🌸
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Passionate+Developer+%26+Creative+%F0%9F%A7%9A%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F;Turning+Ideas+into+Reality+%F0%9F%92%AB;Aesthetics+%2B+Innovation+%3D+My+Thing!+%F0%9F%8E%A8" alt="Typing SVG" />
 
