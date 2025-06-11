@@ -122,5 +122,5 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=FFB6C1&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=FF69B4&animation=twinkling" />
 </div>
