@@ -103,7 +103,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avicsl&bg_color=0d1117&color=FFB6C1&line=FF69B4&point=FF1493&area=true&hide_border=false&border_color=FF69B4&theme=react-dark" alt="Activity Graph" />
 
-
 </div>
 
 ---
