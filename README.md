@@ -16,7 +16,6 @@
 
 🎓 **Computer Science Student** specializing in **Digital Forensics**  
 🏫 **National University - Manila**  
-💻 Coding in <strong>Java, JavaScript, Python, and MySQL</strong>  
 🌟 **Passion:** Creating beautiful and functional solutions  
 ✨ **Mission:** Bridging creativity with technology
 
