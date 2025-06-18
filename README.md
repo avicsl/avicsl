@@ -34,6 +34,9 @@
 <a href="https://instagram.com/alvhn.sl">
   <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFB6C1" alt="Instagram">
 </a>
+<a href="https://www.linkedin.com/in/alvhin-solo-b43261335/">
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1" alt="LinkedIn">
+</a>
 <a href="mailto:soloalvhin@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" alt="Email">
 </a>
