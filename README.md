@@ -65,8 +65,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=radical&background=0d1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&sideNums=FFB6C1&currStreakNum=FF69B4&dates=FFB6C1&sideLabels=FF69B4&border=FF69B4" alt="GitHub Streak" width="400" />
-</div> 
+  <img src="https://streak-stats.demolab.com/?user=avicsl&theme=radical&background=0d1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&sideNums=FFB6C1&currStreakNum=FF69B4&dates=FFB6C1&sideLabels=FF69B4&border=FF69B4" alt="GitHub Streak" width="400" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&border_color=FF69B4&hide_border=false" alt="Top Languages" width="400" />
