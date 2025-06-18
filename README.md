@@ -51,7 +51,7 @@
 
 ## 💖 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,github,gitvscode,figma,notion" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,github,git,vscode,figma,notion" alt="Tech Stack" />
 
 </div>
 
