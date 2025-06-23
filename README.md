@@ -14,7 +14,7 @@
 
 ## 🧚🏻‍♀️ About Me
 
-💌 I am Alvhin Solo but you can just call me **Vhina**!  
+💌 I am **Alvhin Solo** but you can just call me **Vhina**!  
 🎓 **Computer Science Student** specializing in **Digital Forensics**  
 🏫 **National University - Manila**  
 🌟 **Passion:** Creating beautiful and functional solutions  
