@@ -18,29 +18,31 @@
 🎓 **Computer Science Student** specializing in **Digital Forensics**  
 🏫 **National University - Manila**  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
+</div>
 
 ---
 
 <div align="center">
 
-## 🌸 Connect with Me
+## 💖 Connect with Me
 
+<div align="center">
+  
 <a href="https://www.facebook.com/share/15fVAgYGF7/">
-  <img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=white&labelColor=FFB6C1" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=white&labelColor=FF1493" alt="Facebook">
 </a>
+  
 <a href="https://instagram.com/alvhn.sl">
-  <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FFB6C1" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4" alt="Instagram">
 </a>
+  
 <a href="https://www.linkedin.com/in/alvhin-solo-b43261335/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4" alt="LinkedIn">
 </a>
+  
 <a href="mailto:soloalvhin@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1" alt="Email">
 </a>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
@@ -48,9 +50,43 @@
 
 <div align="center">
 
-## 💖 Tech Stack & Tools
+## 💖 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,github,git,vscode,figma,notion" alt="Tech Stack" />
+**Languages**  
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-FF69B4?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Frameworks & Libraries**  
+![Flask](https://img.shields.io/badge/Flask-FF1493?style=for-the-badge&logo=flask&logoColor=white)
+![Android](https://img.shields.io/badge/Android-FF1493?style=for-the-badge&logo=android&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF1493?style=for-the-badge&logo=streamlit&logoColor=white)
+
+
+**Data Science & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-FFB6C1?style=for-the-badge&logo=numpy&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFB6C1?style=for-the-badge&logo=python&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FFB6C1?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFB6C1?style=for-the-badge&logo=jupyter&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google_Colab-FFB6C1?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS_SQL-FF69B4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Tools & Technologies**  
+![Git](https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FF1493?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF1493?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-FF1493?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF1493?style=for-the-badge&logo=postman&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF1493?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 </div>
 
@@ -63,18 +99,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avicsl&show_icons=true&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493&border_color=FF69B4&hide_border=false" alt="GitHub Stats" width="400" />
 </div>
-
 <div align="center">
   <picture>
     <source srcset="https://streak-stats.demolab.com/?user=avicsl&theme=radical&background=0d1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&sideNums=FFB6C1&currStreakNum=FF69B4&dates=FFB6C1&sideLabels=FF69B4&border=FF69B4" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=avicsl&theme=radical&background=0d1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1&sideNums=FFB6C1&currStreakNum=FF69B4&dates=FFB6C1&sideLabels=FF69B4&border=FF69B4" alt="GitHub Streak" width="400" />
   </picture>
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avicsl&layout=compact&theme=radical&bg_color=0d1117&title_color=FF69B4&text_color=FFB6C1&border_color=FF69B4&hide_border=false" alt="Top Languages" width="400" />
 </div>
-
 </div>
 
 ---
